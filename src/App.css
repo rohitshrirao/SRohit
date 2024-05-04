@@ -1,0 +1,13 @@
+.active{
+    color: red;
+}
+
+.project_1 {
+    transition: background-position ease-in-out 2s;
+    background-position: top;
+    box-shadow: 0 10px 10px rgba(128, 128, 128, 1);
+  }
+  
+  .project_1:hover {
+    background-position: bottom;
+  }
