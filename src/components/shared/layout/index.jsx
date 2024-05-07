@@ -28,7 +28,7 @@ const Layout = ({children}) => {
     {
       icon: "fa fa-mobile-phone",
       label: "Phone",
-      content: "+91 9923230809"
+      content: "+91 7875642079"
     },
     {
       icon: "fa fa-envelope",
